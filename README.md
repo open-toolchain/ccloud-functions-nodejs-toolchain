@@ -14,7 +14,7 @@
 </p>
 
 
-# Create a serverless Node.js application
+# Develop a Cloud Functions Node.js application
 
 This repository includes toolchain code to deploy a serverless Backend-for-Frontend (BFF) application that uses Node.js and IBM Cloud Functions. Cloud Functions supplies basic Create, Read, Update, and Delete operations in a serverless environment. These functions can be mapped to an API gateway and then integrated into an iOS app; for example, to enable persistence of data into a Cloudant NoSQL Database or any other NoSQL database.
 
