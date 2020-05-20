@@ -81,15 +81,21 @@
             "items": [
               {
                 "type": "label",
-                "title": "Region"
+                "title": {
+                    "$ref": "#/messages/region"
+                }
               },
               {
                 "type": "label",
-                "title": "Organization"
+                "title": {
+                    "$ref": "#/messages/organization"
+                }
               },
               {
                 "type": "label",
-                "title": "Space"
+                "title": {
+                    "$ref": "#/messages/space"
+                }
               },
               {
                 "type": "select",
